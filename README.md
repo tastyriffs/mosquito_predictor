@@ -14,7 +14,7 @@ This project uses XGBoost to classify mosquito trap collections as **High abunda
 |---|---|
 | `Mosquito_Trap_Sites.csv` | DC mosquito trap collection records |
 | `Mosquito_Weather_NOAA.csv` | Daily weather data from NOAA |
-| `DTM.tif` | LiDAR Digital Terrain Model for DC |
+| `DTM.tif` | LiDAR Digital Terrain Model for DC | Can be found here: https://opendata.dc.gov/datasets/DCGIS::2018-lidar-hydro-enforced-digital-terrain-model/about
 
 ## Features
 
